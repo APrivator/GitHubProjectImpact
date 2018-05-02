@@ -13,7 +13,7 @@ The relationship among features and impact-fulness is explored and plot as coded
 
 
 # Correlation and Modelling  
-The Pearson correlation is shown in a plot coded in the file `src/pearson_correlation.R`. Besides Pearson correlation, non-linear relationship is also obtained via visualising feature importance and tree relationship from RandomeForest model and C50 tree model respectively. The modelling details are coded in `src/model_training.R`
+The Pearson correlation is shown in a plot coded in the file `src/exploration_plot.R`. Besides Pearson correlation, non-linear relationship is also obtained via visualising feature importance and tree relationship from RandomeForest model and C50 tree model respectively. The modelling details are coded in `src/model_training.R`
 
 
 # Reading and Exploring the graph
